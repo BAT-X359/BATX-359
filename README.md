@@ -72,7 +72,7 @@ Sürecimiz boyunca çok çalıştık elimizden gelenin fazlasını yaptık. Bund
 
 Daha bir çok dökümanımız var dökümanlarımızı incelemenizi tavsiye ederiz. 
 
-
+Lisanlama için [tıklayınız](https://github.com/BAT-X359/BATX-359/blob/3318b516cba60ef21bcc6f92c78479b534e6fc7a/LICENSE)
 
  
 
