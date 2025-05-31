@@ -63,6 +63,7 @@ Robotumuz aşağıdaki adımları izleyerek Engelli Kategori görevini yerine ge
 Görevin çalışma videosu için [Youtube_Linki](https://www.youtube.com/watch?v=7Meatvm6HvQ)
 
 Robotumuzda kullandığımız Sensörler ve Hub için daha detaylı bilgi ve Datasheetleri için [tıklayınız](https://github.com/BAT-X359/BATX-359/tree/df465b316d2dc62f2fc8dfc1b1bba2d2353a6c41/Sens%C3%B6rler-Hub)
+
 Robotumuzun fotoğrafları için [tıklayınız](https://github.com/BAT-X359/BATX-359/tree/df465b316d2dc62f2fc8dfc1b1bba2d2353a6c41/Foto%C4%9Fraflar/Robotlar)
 
 Bizi merak ettiyseniz [buradayız](https://github.com/BAT-X359/BATX-359/tree/df465b316d2dc62f2fc8dfc1b1bba2d2353a6c41/Foto%C4%9Fraflar/Tak%C4%B1m)
